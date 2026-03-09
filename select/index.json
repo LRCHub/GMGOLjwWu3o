@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "乖離光",
+  "base_artist": "soleil de minuit feat. 藍月なくる",
+  "createdAt": "2026-03-09T16:53:58.568266Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乖離光",
+      "artist": "soleil de minuit feat. 藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_乖離光_soleil_de_minuit_feat._藍月なくる.txt"
+    }
+  ]
+}
